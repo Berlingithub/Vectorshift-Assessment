@@ -1,8 +1,8 @@
-# VectorShift - Visual Pipeline Builder
+# VectorShift Frontend Technical Assessment
 
 ## Project Overview
 
-VectorShift is a powerful visual pipeline builder that enables users to create, manage, and execute data processing workflows through an intuitive drag-and-drop interface. Built with React and FastAPI, this tool simplifies complex data workflows into manageable visual components.
+This repository contains the solution to the VectorShift Frontend Technical Assessment. The project consists of a frontend built using React and a backend implemented with FastAPI. The goal of this project is to create a flexible and reusable node abstraction, enhance the styling, improve the text node logic, and integrate the frontend with the backend for pipeline submission.
 
 ## Project Structure
 
